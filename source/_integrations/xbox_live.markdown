@@ -19,6 +19,14 @@ To use this sensor you need a free API key from
 [xapi.us](https://xapi.us/).
 Please also make sure to connect your Xbox account on that site.
 
+*Note: as of 8/23/22 this is now a paid service (monthly/yearly),but includes a 
+       free 6-month trial.
+
+      Per the developer: (responding to a question if the service was free still)
+      "Unfortunately yes. 98% of the bandwith was used by free accounts.
+       And people were creating multiple accounts to get around limits. 
+       You are on a 6 month free trial, so no need to purchase yet"
+       
 The configuration requires you to specify XUIDs which are the unique identifiers
 for profiles. These can be determined on [xapi.us](https://xapi.us/) by
 either looking at your own profile page or using their interactive documentation
